@@ -1,0 +1,11 @@
+# Modelleri GitHub'a yüklemiyoruz (Hugging Face'ten çekilecek)
+*.gguf
+*.bin
+*.safetensors
+
+# Python kalıntıları
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
